@@ -1,0 +1,103 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    background-color: hsl(225, 100%, 94%);
+    background-image: url('../images/pattern-background-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.order-summary-card {
+    background-color: hsl(225, 100%, 98%);
+    max-width: 450px;
+    width: 90%;
+    border-radius: 20px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.content-wrapper {
+    padding: 40px;
+}
+
+h1 {
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+.description {
+    color: hsl(224, 23%, 55%);
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+.plan-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: hsl(225, 100%, 98%);
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.plan-details .plan-info {
+    text-align: left;
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+.plan-details .plan-info h2 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: hsl(223, 47%, 23%);
+}
+
+.plan-details .plan-info p {
+    color: hsl(224, 23%, 55%);
+}
+
+.change-link {
+    color: hsl(245, 75%, 52%);
+    font-weight: 700;
+    font-size: 0.9rem;
+    transition: color 0.2s ease;
+}
+
+.change-link:hover {
+    color: hsl(245, 75%, 65%);
+    text-decoration: none;
+}
+
+.payment-button {
+    width: 100%;
+    border: none;
+    background-color: hsl(245, 75%, 52%);
+    color: hsl(225, 100%, 98%);
+    font-weight: 700;
+    padding: 15px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    margin-bottom: 25px;
+}
+
+.payment-button:hover {
+    background-color: hsl(245, 75%, 65%);
+}
+
+.cancel-link {
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.cancel-link:hover {
+    color: hsl(223, 47%, 23%);
+}
