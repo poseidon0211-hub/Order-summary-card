@@ -11,7 +11,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -47,11 +46,11 @@ Users should be able to:
 
 ### What I learned
 
+- How to create visually appealing cards with CSS shadows and rounded corners.
 
+- Using Flexbox to align text and icons.
 
-### Continued development
-
-
+- Designing clear and effective call-to-action buttons.
 
 ## Author
 
