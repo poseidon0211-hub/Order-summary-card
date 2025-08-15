@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://poseidon0211-hub.github.io/nft-preview-card-component-main/" target="_blank" rel="noreferrer"> Solution </a>
+- Solution URL: <a href="https://poseidon0211-hub.github.io/Order-summary-card/" target="_blank" rel="noreferrer"> Solution </a>
 - Live Site URL: <a href="https://gregarious-valkyrie-14024b.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
