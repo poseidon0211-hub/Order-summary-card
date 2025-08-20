@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://poseidon0211-hub.github.io/nft-preview-card-component-main/" target="_blank" rel="noreferrer"> Solution </a>
+- Solution URL: <a href="https://https://www.frontendmentor.io/solutions/order-summary-card-Y7cvtYPP6C/" target="_blank" rel="noreferrer"> Solution </a>
 - Live Site URL: <a href="https://https://order-summary-carrd.netlify.app//" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
