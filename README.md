@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://www.frontendmentor.io/solutions/order-summary-card-Y7cvtYPP6C/" target="_blank" rel="noreferrer"> Solution </a>
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/order-summary-card-ECLCzXZYaT" target="_blank" rel="noreferrer"> Solution </a>
 - Live Site URL: <a href="https://order-summary-carrd.netlify.app//" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
