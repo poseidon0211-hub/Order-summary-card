@@ -47,11 +47,18 @@ Users should be able to:
 
 ### What I learned
 
+- How to center a component on the page without using absolute positioning
+
+- Building layouts using Flexbox inside the card instead of body/grid
+
+- Creating smooth hover/focus states for buttons and links
 
 
 ### Continued development
 
-
+- Practicing more responsive layouts  
+- Exploring CSS Grid  
+- Enhancing accessibility in future projects  
 
 ## Author
 
