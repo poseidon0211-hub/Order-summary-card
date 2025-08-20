@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](screenshots\active.png)
-![](screenshots/desktop.png)
-![](screenshots/mobile.png)
+![](Screenshots/active.png)
+![](Screenshots/desktop.png)
+![](Screenshots/mobile.png)
 
 ### Links
 
