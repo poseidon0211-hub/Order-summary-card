@@ -1,0 +1,118 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.order-summary-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.wrapp{
+    background-color:  hsl(225, 100%, 98%);
+    max-width: 450px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.hero-image{
+    width: 100%;
+    display: block;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 30px;
+}
+
+.content-wrapper h1 {
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+.description {
+    color: hsl(224, 23%, 55%);
+    line-height: 1.6;
+    margin-top: 0;
+    padding: 0 20px;
+}
+
+.plan-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.music-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.plan-details .plan-info {
+    flex-grow: 1;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.plan-details .plan-info h2 {
+    font-size: 16px;
+    font-weight: 700;
+    color: hsl(223, 47%, 23%);
+    margin-bottom: 10px;
+}
+
+.plan-details .plan-info p {
+    color: hsl(224, 23%, 55%);
+    margin: 0;
+}
+
+.change-link {
+    color: hsl(245, 75%, 52%);
+    font-weight: 700;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
+
+.change-link:hover {
+    color: hsl(245, 75%, 65%);
+    text-decoration: none;
+}
+
+.payment-button {
+    width: 100%;
+    border: none;
+    background-color: hsl(245, 75%, 52%);
+    color: hsl(225, 100%, 98%);
+    font-weight: 700;
+    padding: 15px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    margin-bottom: 20px;
+}
+
+.payment-button:hover {
+    background-color: hsl(245, 75%, 65%);
+}
+
+.cancel-link {
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    margin-top: 5px;
+}
+
+.cancel-link:hover {
+    color: hsl(223, 47%, 23%);
+}
